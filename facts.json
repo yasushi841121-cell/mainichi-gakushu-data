@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "updated": "2026-11-27",
+  "items": [
+    {
+      "id": "space-moon-phases",
+      "topic": "宇宙",
+      "title": "月の形が変わるわけ",
+      "fact": "月そのものの形が変わるのではなく、太陽に照らされた部分の見え方が変わるよ。",
+      "sourceTitle": "国立天文台 月食のしくみ",
+      "sourceUrl": "https://www.nao.ac.jp/astro/basic/lunar-eclipse.html"
+    },
+    {
+      "id": "space-satellite-earth",
+      "topic": "宇宙",
+      "title": "宇宙から地球を見守る",
+      "fact": "人工衛星は宇宙から地球を観測し、天気や環境などを調べるのに役立っているよ。",
+      "sourceTitle": "JAXA 人工衛星で地球を守る・利用する",
+      "sourceUrl": "https://www.jaxa.jp/projects/sat/"
+    },
+    {
+      "id": "space-earth-photo",
+      "topic": "宇宙",
+      "title": "人工衛星で地球を撮影",
+      "fact": "人工衛星の写真を使うと、地球の環境がどう変わっているか調べる手がかりになるよ。",
+      "sourceTitle": "JAXA こども地球撮影プロジェクト",
+      "sourceUrl": "https://www.satnavi.jaxa.jp/ja/news/2024/09/24/9820/index.html"
+    },
+    {
+      "id": "food-seasonal",
+      "topic": "食べもの",
+      "title": "旬ってなに？",
+      "fact": "野菜や魚には、たくさんとれておいしくなる季節があるよ。それを『旬』というんだ。",
+      "sourceTitle": "農林水産省 子どもレシピにチャレンジ",
+      "sourceUrl": "https://www.maff.go.jp/kanto/syo_an/seikatsu/shokuiku/ouchi/recipe.html"
+    },
+    {
+      "id": "food-label",
+      "topic": "食べもの",
+      "title": "食品の表示を見てみよう",
+      "fact": "食品の表示を見ると、産地や材料などを知る手がかりになるよ。買う時に家の人と見比べてみよう。",
+      "sourceTitle": "農林水産省 統計クイズと豆知識",
+      "sourceUrl": "https://www.maff.go.jp/j/kids/kodomo_kasumi/2021/content/toukei_6.html"
+    },
+    {
+      "id": "science-kahaku",
+      "topic": "生きもの・自然",
+      "title": "博物館は発見の場所",
+      "fact": "博物館の標本には、生きものや昔の人の暮らしを知るヒントが残っているよ。",
+      "sourceTitle": "国立科学博物館 かはくのモノ語りワゴン",
+      "sourceUrl": "https://www.kahaku.go.jp/tenji/wagon.html"
+    },
+    {
+      "id": "space-kids",
+      "topic": "宇宙",
+      "title": "宇宙のことを調べてみよう",
+      "fact": "宇宙のことは、写真や実験、工作を通しても学べるよ。気になった星や惑星を図鑑で探してみよう。",
+      "sourceTitle": "JAXA キッズ★ギャラクシー",
+      "sourceUrl": "https://www.isas.jaxa.jp/kids/labo/paper/main.html"
+    }
+  ]
+}
