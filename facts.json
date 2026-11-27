@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-11-27",
   "items": [
     {
@@ -57,6 +57,86 @@
       "fact": "宇宙のことは、写真や実験、工作を通しても学べるよ。気になった星や惑星を図鑑で探してみよう。",
       "sourceTitle": "JAXA キッズ★ギャラクシー",
       "sourceUrl": "https://www.isas.jaxa.jp/kids/labo/paper/main.html"
+    },
+    {
+      "id": "life-lightbulb",
+      "topic": "おうちの安全",
+      "title": "電球が切れたら",
+      "fact": "電球の交換は、おうちの人にお願いしよう。電気がついたまま、熱いまま、ぬれた手ではさわらない。取り付け方が分からない照明は、自分で外さないよ。",
+      "sourceTitle": "NITE 照明器具のランプ交換による事故",
+      "sourceUrl": "https://r1.prtr.nite.go.jp/jiko/chuikanki/mailmagazin/2025fy/vol475_250422.html"
+    },
+    {
+      "id": "life-ac-filter",
+      "topic": "電気の節約",
+      "title": "エアコンの節約ポイント",
+      "fact": "フィルターにほこりがたまると、エアコンが効きにくくなることがあるよ。電源を切って、おうちの人と説明書を見ながら掃除しよう。暑さをがまんしすぎないでね。",
+      "sourceTitle": "資源エネルギー庁 家庭の省エネ 空調",
+      "sourceUrl": "https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/airconditioning/index.html"
+    },
+    {
+      "id": "life-ac-curtains",
+      "topic": "電気の節約",
+      "title": "カーテンも暑さ対策",
+      "fact": "夏の日差しが入る窓に、カーテンやすだれを使うと、部屋が暑くなりにくくなる助けになるよ。高い所の作業は、おとなに頼もう。",
+      "sourceTitle": "資源エネルギー庁 節電のヒント",
+      "sourceUrl": "https://www.enecho.meti.go.jp/about/special/johoteikyo/setsuden_tips.html"
+    },
+    {
+      "id": "life-vacuum",
+      "topic": "そうじ",
+      "title": "掃除機を使う前に",
+      "fact": "床の小さなおもちゃやコードを先に片づけよう。水やぬれたごみは吸わせないでね。変なにおいや音がしたら、すぐ止めておとなに知らせよう。",
+      "sourceTitle": "NITE 掃除機の事故を防ぐポイント",
+      "sourceUrl": "https://www.nite.go.jp/jiko/chuikanki/press/2023fy/prs231130.html"
+    },
+    {
+      "id": "life-clean-order",
+      "topic": "そうじ",
+      "title": "そうじは上から下へ",
+      "fact": "机や棚の上を先にふいて、最後に床をそうじすると、落ちたほこりもまとめてきれいにしやすいよ。洗剤を使うときは、おとなと一緒に説明書を読もう。",
+      "sourceTitle": "農林水産省 家庭の衛生と食中毒予防",
+      "sourceUrl": "https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/point.html"
+    },
+    {
+      "id": "life-riceball",
+      "topic": "料理",
+      "title": "おにぎりを作ってみよう",
+      "fact": "手をせっけんで洗う。ごはんをラップにのせる。好きな具を真ん中に置き、ラップごと丸める。熱いごはんや具の準備は、おとなにお願いしよう。",
+      "sourceTitle": "農林水産省 おにぎりキッズ職人",
+      "sourceUrl": "https://www.maff.go.jp/j/kids/kodomo_kasumi/2025/content/washoku.html"
+    },
+    {
+      "id": "life-food-curiosity",
+      "topic": "食べもの",
+      "title": "苦手な食べものの楽しみ方",
+      "fact": "むりに食べなくて大丈夫。においをかぐ、切り方や料理を変えてみる、育ち方を調べるなど、食べものに親しむ方法はいろいろあるよ。",
+      "sourceTitle": "農林水産省 食育の取り組み",
+      "sourceUrl": "https://www.maff.go.jp/j/council/seisaku/syokusan/bukai_17/pdf/ref_data_2.pdf"
+    },
+    {
+      "id": "life-wash-hands",
+      "topic": "料理",
+      "title": "料理の前の手洗い",
+      "fact": "水でぬらして、せっけんを泡立てる。手のひら、手の甲、指の間、つめ、親指、手首を洗い、流水で流して、きれいなタオルでふこう。",
+      "sourceTitle": "農林水産省 こども手洗いマイスター",
+      "sourceUrl": "https://www.maff.go.jp/j/fs/handwashing/"
+    },
+    {
+      "id": "life-paper-plane",
+      "topic": "工作",
+      "title": "紙ひこうきを作ろう",
+      "fact": "紙を半分に折って開く。左右の上の角を真ん中の線に合わせて折る。もう一度左右を真ん中へ折り、全体を半分にして羽を開く。広い場所で、人に向けずに飛ばそう。",
+      "sourceTitle": "国立科学博物館 小学生向け学習案内",
+      "sourceUrl": "https://www.kahaku.go.jp/gakushu/shougakusei/"
+    },
+    {
+      "id": "life-energy-led",
+      "topic": "電気の節約",
+      "title": "LEDの電球って？",
+      "fact": "LEDの照明は、白熱電球などより電気を少なく使えることがあるよ。交換する時は照明器具との組み合わせが大事なので、おとなに確認してもらおう。",
+      "sourceTitle": "資源エネルギー庁 節電のヒント",
+      "sourceUrl": "https://www.enecho.meti.go.jp/about/special/johoteikyo/setsuden_tips.html"
     }
   ]
 }
